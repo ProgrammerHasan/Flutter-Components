@@ -12,7 +12,6 @@ class TextFieldComponent extends StatefulWidget {
   @override
   _TextFieldComponentState createState() => _TextFieldComponentState();
 
-
 }
 
 class _TextFieldComponentState extends State<TextFieldComponent> {
